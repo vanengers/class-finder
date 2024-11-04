@@ -3,6 +3,7 @@
   "description": "Find classes (with namespaces) within folders",
   "type": "library",
   "license": "MIT",
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "Vanengers\\ClassFinder\\": "src/"
